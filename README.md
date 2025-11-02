@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi, I'm Filip
 
-<!--
-**filip-misic/filip-misic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer in progress**  
+Focused on building real-world apps, learning by doing, and constantly improving.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+#### Frontend
+- Angular  
+- HTML, CSS, TypeScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Backend
+- Node.js (Express)  
+- REST APIs  
+
+#### Database
+- MySQL  
+
+### 🛠 Currently Working On
+- Full-stack projects using Angular + Node.js + MySQL  
+- Building portfolio-ready applications  
+- Improving clean code & problem-solving skills  
+
+### 🎯 Goals for the next 6 months
+- Build 3+ real full-stack projects  
+- Deploy at least 2 full-stack apps  
+- Strengthen Angular & Node.js fundamentals  
+- Start freelancing with small real-world tasks  
+
+### 📈 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=filip-misic)
+
+### 📬 Contact
+- GitHub: **filip-misic**
+- Portfolio: *(coming soon)*
