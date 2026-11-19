@@ -1,34 +1,20 @@
 ## 👋 Hi, I'm Filip
 
 **Full-stack developer in progress**  
-Focused on building real-world apps, learning by doing, and constantly improving.
+Focused on expanding my knowledge of Angular, TypeScript, and Node.js
+through hands-on projects.
 
-### 🚀 Tech Stack
-#### Frontend
-- Angular  
-- HTML, CSS, TypeScript  
-
-#### Backend
-- Node.js (Express)  
-- REST APIs  
-
-#### Database
-- MySQL  
+### 💻 Tech Stack
+- Angular, RxJS
+- HTML, CSS, TypeScript
+- Node.js, Express
+- REST APIs
+- Git
 
 ### 🛠 Currently Working On
-- Full-stack projects using Angular + Node.js + MySQL  
-- Building portfolio-ready applications  
-- Improving clean code & problem-solving skills  
-
-### 🎯 Goals for the next 6 months
-- Build 3+ real full-stack projects  
-- Deploy at least 2 full-stack apps  
-- Strengthen Angular & Node.js fundamentals  
-- Start freelancing with small real-world tasks  
-
-### 📈 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=filip-misic)
+Improving a coffee ordering app built with Angular and Node.js,
+with a focus on authentication, input validation, and admin order management.
 
 ### 📬 Contact
-- GitHub: **filip-misic**
-- Portfolio: *(coming soon)*
+- [LinkedIn](https://www.linkedin.com/in/filip-mi%C5%A1i%C4%87-24a8ba393/)
+- [Email](mailto:fmisicc@gmail.com)
